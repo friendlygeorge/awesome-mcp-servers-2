@@ -141,6 +141,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/sentry/546E7A" height="14"/> [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
 - <img src="https://raygun.com/favicon.ico" height="14"/> [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Raygun API V3 integration for crash reporting and real user monitoring
 - <img src="https://metoro.io/static/images/logos/Metoro.svg" height="14"/> **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
+- <img src="https://cdn.simpleicons.org/docker/0db7ed" height="14"/> [Docker MCP](https://github.com/friendlygeorge/docker-mcp-server) - Docker operations server with 50+ tools for container management, image operations, volume/network management, compose stack deployment, and resource monitoring.
+- <img src="https://cdn.simpleicons.org/linux/000000" height="14"/> [System Monitoring](https://github.com/friendlygeorge/system-monitoring-mcp-server) - Real-time system monitoring with 19 tools for CPU, memory, disk, network, processes, Docker containers, logs, and alerts.
 
 <br />
 
@@ -230,6 +232,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" height="14"/> [Windows Control](https://github.com/Cheffromspace/nutjs-windows-control) - Windows automation MCP server providing mouse, keyboard, screen capture, clipboard, and window management capabilities using NutJS.
 - <img src="https://cdn.simpleicons.org/gnometerminal/2196F3" height="14"/> [Command Line](https://github.com/phialsbasement/cmd-mcp-server) - MCP server allowing any and all command execution over CMD(BE CAREFUL).
 - <img src="https://cdn.simpleicons.org/apple/999999" height="14"/> [Apple Shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) - An MCP Server Integration with Apple Shortcuts
+- <img src="https://cdn.simpleicons.org/clock/FF6D00" height="14"/> [Cron Scheduler](https://github.com/friendlygeorge/cron-scheduler-mcp-server) - Task scheduling and cron job management with 10 tools for creating, monitoring, and managing scheduled jobs, execution history, and retry policies.
 
 <br />
 
